@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["tomli.py", "src/tomli/_parser.py"],
+  ],
+  "deps": [],
+  "version": "2.0"
+}
